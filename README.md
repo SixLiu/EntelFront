@@ -2,7 +2,7 @@
 
 * Clone down the repository.
 ```
-git clone https://github.com/SixLiu/EntelFront.git
+git clone https://github.com/SixLiu/Front.git
 ```
 
 * Install packages (from inside the koa-starter folder).
