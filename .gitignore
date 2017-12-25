@@ -27,7 +27,7 @@ build/Release
 node_modules
 
 # For secrets
-config.json
+
 
 # For deploying
 tmp
