@@ -28,7 +28,7 @@ node_modules
 
 
 # For secrets
-.idea
 
 # For deploying
 tmp
+/.idea
