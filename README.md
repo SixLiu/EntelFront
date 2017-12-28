@@ -22,8 +22,8 @@ npm start
 Support dynamic rendering handlebars partial template by a json string
 
 Basic KOA2 knowledge 
-https://github.com/koajs/koa/blob/master/docs/guide.md
-https://github.com/ChenShenhai/koa2-note/
+* https://github.com/koajs/koa/blob/master/docs/guide.md
+* https://github.com/ChenShenhai/koa2-note/
 
 handlebars knowledge
 
