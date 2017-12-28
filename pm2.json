@@ -1,0 +1,10 @@
+/**
+ * Created by sliu on 2017/12/28.
+ */
+{
+    "apps" : [{
+    "script"    : "index.js",
+    "instances" : "max",
+    "exec_mode" : "cluster"
+}]
+}
